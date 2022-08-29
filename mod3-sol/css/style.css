@@ -4,13 +4,23 @@ body {
     background-color: #61122f;
     font-family: 'Oxygen', sans-serif;
 }
-
-/** HEADER **/
+.navbar{
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
 #header-nav {
     background-color: #f6b319;
     border-radius: 0;
     border: 0;
 }
+/** HEADER **/
+.navbar{
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+
 
 .navbar-brand {
     padding-top: 25px;
@@ -20,7 +30,7 @@ body {
     text-decoration: none;
 }
 .navbar-brand h1 { /* Restaurant name */
-    font-family: 'Lora', serif;
+    /* font-family: 'Lora', serif;
     color: #557c3e;
     font-size: 1.7em;
     text-transform: uppercase;
@@ -53,7 +63,7 @@ body {
     background: #8e24aa;
 }
 
-/* END HEADER */
+/* END HEADER */ */
 
 /* HOME PAGE */
 
